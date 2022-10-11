@@ -1,6 +1,7 @@
 - Hi, I’m @elizabethpursell
-- I’m interested in Java software development
-- I’m currently learning SQL
+- Currently, I am a second-year Computer Science student at Lehigh University
+- I am interested in UI/UX development
+- I have experience in NetSuite development
 - You can reach me through email at emp520@lehigh.edu
 
 <!---
