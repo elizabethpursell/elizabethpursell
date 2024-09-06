@@ -1,6 +1,6 @@
 - Hi, I’m @elizabethpursell
-- Currently, I am a third-year Computer Science and Engineering student at Lehigh University
-- I have experience in NetSuite development, data analysis, and full stack development
+- Currently, I am a senior studying Computer Science & Engineering and Applied Mathematics at Lehigh University
+- I have experience in software engineering, database design, and cloud engineering
 - You can reach me through email at emp520@lehigh.edu
 
 <!---
